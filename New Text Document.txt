@@ -1,0 +1,7 @@
+class RupeesToDollar{
+public static void main(String args[]){
+float Indian_Currency=100;
+double Dollar= Indian_Currency/70;
+System.out.println(Dollar);
+}
+}
